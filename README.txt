@@ -18,7 +18,8 @@
 	+ pillow
 
 	+ tkinter
-
+	+ pandas 
+	+ matplotlib
 
 3. Hướng dẫn cài đặt
 
