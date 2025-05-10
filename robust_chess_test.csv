@@ -1,0 +1,37 @@
+test_id,ai_level,opponent_level,ai_color,result,moves,termination,white_material,black_material,material_diff,timestamp
+11v1_White_1,11,1,White,1-0,17,normal,4000,2750,1250,2025-05-10 13:21:39
+11v1_Black_1,11,1,Black,1/2-1/2,18,material imbalance,2180,4000,-1820,2025-05-10 13:22:19
+11v1_White_2,11,1,White,1/2-1/2,15,material imbalance,4000,2180,1820,2025-05-10 13:22:39
+11v1_Black_2,11,1,Black,1/2-1/2,14,material imbalance,3080,4800,-1720,2025-05-10 13:23:09
+11v1_White_3,11,1,White,1/2-1/2,35,material imbalance,4000,2460,1540,2025-05-10 13:24:04
+11v1_Black_3,11,1,Black,1/2-1/2,24,material imbalance,2180,3900,-1720,2025-05-10 13:24:49
+11v3_White_1,11,3,White,1/2-1/2,23,material imbalance,4000,1930,2070,2025-05-10 13:25:29
+11v3_Black_1,11,3,Black,1/2-1/2,24,material imbalance,2220,4000,-1780,2025-05-10 13:25:54
+11v3_White_2,11,3,White,1-0,15,normal,4000,3480,520,2025-05-10 13:26:19
+11v3_Black_2,11,3,Black,0-1,30,normal,2600,4000,-1400,2025-05-10 13:27:19
+11v3_White_3,11,3,White,1-0,13,normal,3900,3200,700,2025-05-10 13:27:34
+11v3_Black_3,11,3,Black,1/2-1/2,36,material imbalance,2220,3900,-1680,2025-05-10 13:28:28
+11v5_White_1,11,5,White,1/2-1/2,51,material imbalance,2650,730,1920,2025-05-10 13:29:54
+11v5_Black_1,11,5,Black,1/2-1/2,98,material imbalance,0,1000,-1000,2025-05-10 13:32:16
+11v5_White_2,11,5,White,1/2-1/2,34,material imbalance,1430,2970,-1540,2025-05-10 13:33:21
+11v5_Black_2,11,5,Black,1/2-1/2,35,material imbalance,2950,1320,1630,2025-05-10 13:34:26
+11v5_White_3,11,5,White,1/2-1/2,71,material imbalance,700,100,600,2025-05-10 13:36:17
+11v5_Black_3,11,5,Black,1/2-1/2,15,material imbalance,3900,2180,1720,2025-05-10 13:36:42
+11v7_White_1,11,7,White,1-0,45,normal,3380,1880,1500,2025-05-10 13:38:38
+11v7_Black_1,11,7,Black,1/2-1/2,28,material imbalance,2030,3570,-1540,2025-05-10 13:39:48
+11v7_White_2,11,7,White,1/2-1/2,82,material imbalance,100,800,-700,2025-05-10 13:43:08
+11v7_Black_2,11,7,Black,1/2-1/2,38,material imbalance,1730,3270,-1540,2025-05-10 13:44:46
+11v7_White_3,11,7,White,1/2-1/2,86,material imbalance,100,700,-600,2025-05-10 13:48:13
+11v7_Black_3,11,7,Black,1/2-1/2,86,material imbalance,100,1300,-1200,2025-05-10 13:52:02
+11v9_White_1,11,9,White,1/2-1/2,63,material imbalance,2630,1120,1510,2025-05-10 13:55:35
+11v9_Black_1,11,9,Black,1/2-1/2,73,material imbalance,1650,100,1550,2025-05-10 13:59:42
+11v9_White_2,11,9,White,1/2-1/2,100,normal,700,920,-220,2025-05-10 14:05:27
+11v9_Black_2,11,9,Black,1/2-1/2,57,material imbalance,2550,730,1820,2025-05-10 14:08:33
+11v9_White_3,11,9,White,1/2-1/2,100,normal,820,1200,-380,2025-05-10 14:14:20
+11v9_Black_3,11,9,Black,1/2-1/2,37,material imbalance,3050,1140,1910,2025-05-10 14:16:10
+11v10_White_1,11,10,White,1/2-1/2,37,material imbalance,3470,1950,1520,2025-05-10 14:18:08
+11v10_Black_1,11,10,Black,0-1,12,normal,3800,3900,-100,2025-05-10 14:18:45
+11v10_White_2,11,10,White,1/2-1/2,24,material imbalance,2170,4000,-1830,2025-05-10 14:20:16
+11v10_Black_2,11,10,Black,1/2-1/2,100,normal,750,1320,-570,2025-05-10 14:26:55
+11v10_White_3,11,10,White,1-0,25,normal,3900,4000,-100,2025-05-10 14:28:30
+11v10_Black_3,11,10,Black,1/2-1/2,90,material imbalance,320,2580,-2260,2025-05-10 14:33:51
