@@ -78,3 +78,5 @@ chess-ai/
 - File chess_ai.log sẽ ghi lại các lỗi nếu có
 
 - Có thể chỉnh sửa code để thay đổi cách AI đánh giá thế cờ
+
+- Link Git: https://github.com/hoangha132/ChessAI-search 
